@@ -69,6 +69,7 @@ Pivot Tables & Pivot Charts
 Slicers & Data Filtering
 VLOOKUP / INDEX-MATCH
 Data Cleaning & Formatting
+
 📬 Feedback
 
 I’d love to hear your feedback and suggestions to improve this project. Feel free to connect and discuss how data can drive better HR decisions. 
